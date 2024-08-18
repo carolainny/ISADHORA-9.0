@@ -160,9 +160,9 @@
     // For Firebase JS SDK v7.20.0 and later, measurementId is optional
     const firebaseConfig = {
       apiKey: "AIzaSyDlBUFtI6sHHGDN3FWCbm1bCX1xwgDak-E",
-      authDomain: "luana-carolina.firebaseapp.com",
-      projectId: "luana-carolina",
-      storageBucket: "luana-carolina.appspot.com",
+      authDomain: "EXECUÇÃO MAXIMA.firebaseapp.com",
+      projectId: "EXECUÇÃO MAXIMA",
+      storageBucket: "EXECUÇÃO-MAXIMA.appspot.com",
       messagingSenderId: "301155649996",
       appId: "1:301155649996:web:ff30979e6a16f94c47f569",
       measurementId: "G-QWH8V67V17"
