@@ -1,5 +1,4 @@
-element.style {
-}
+element.style 
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -211,7 +210,7 @@ html, body {
 *, *:before, *:after {
     box-sizing: border-box;
 }
-html[Attributes style] {
+html[Attributes  ] {
     direction: ltr;
     unicode-bidi: isolate;
 }
